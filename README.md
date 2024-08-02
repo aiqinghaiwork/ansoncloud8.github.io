@@ -20,7 +20,7 @@
 # 🙋 Hi, I’m AM科技
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！技术分享-满满干货，从0到1实现，从技术分享到落地应用，希望你在这里能找到你需要的东西！
 
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
+▶️ **新人[YouTube](https://youtube.com/)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
 </br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
 
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
@@ -48,11 +48,6 @@
  
 ✈️ **机场推荐** 🛩️
 
-[*红杏加速器：**高速iepl专线机场,定制极速专线,最低8元222G,优惠码：hxvip88,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
-
-[*69云机场：**中转高速机场！全流媒体解锁,最低9.9元400G** ](https://am.69yun69.com)
-
-[*云狐VPN：**动态流媒体解锁,可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 
